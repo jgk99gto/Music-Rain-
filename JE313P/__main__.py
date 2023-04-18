@@ -19,7 +19,7 @@ for name in files:
         load_plugins(plugin_name.replace(".py", ""))
     
 print("تم تنصيب السورس بنجاح")
-print("قناة السورس @Jepthon")
+print("قناة السورس @ZZZ7iZ")
 
 if __name__ == "__main__":
     JE313P.run_until_disconnected()
